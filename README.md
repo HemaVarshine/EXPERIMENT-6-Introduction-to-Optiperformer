@@ -70,22 +70,17 @@ The system includes:
 
 **Transmission Analysis Across Fiber Lengths**
 
-| S.No | Fiber Length (km) | Optical Power (Watts) | Optical Power (dBm) | Max Q Factor | Min BER | Eye Height | Decision Instant (Max Q / Min BER) |
-|------|-------------------|------------------------|----------------------|--------------|---------|-------------|-------------------------------------|
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
+![WhatsApp Image 2025-11-17 at 10 58 54_45fff046](https://github.com/user-attachments/assets/29d1d613-a310-49dc-93b1-c99f7431b25a)
 
 ---
 
 ## Graphs
 
-*(Insert plots of Optical Power, Q Factor, and BER vs. Fiber Length here)*
+![WhatsApp Image 2025-11-17 at 11 00 28_fd801be1](https://github.com/user-attachments/assets/98ae357e-43a5-45cb-8dc9-f4cdcd7668a1)
+
 
 ---
 
 ## RESULT
 
-*(Summarize key findings from simulation and analysis)*
+Thus , the simulation of optical communication system was done.
